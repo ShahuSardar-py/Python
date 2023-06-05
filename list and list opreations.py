@@ -29,3 +29,6 @@ print(fruits)
 
 fruits.extend('TOMATO')
 print(fruits)
+
+list_of_nos = [i for i in range(10)]
+print(list_of_nos)
